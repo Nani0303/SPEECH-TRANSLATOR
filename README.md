@@ -1,0 +1,1 @@
+This project is about the lanaguage tarnslator i created a streamlit code for the ui and  user ned to selct the input language and output lanaguage as per the client requiremnt the output i stranslated to the output languagge
